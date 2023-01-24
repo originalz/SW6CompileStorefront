@@ -1,5 +1,4 @@
 ## Compile Storefront Components in Shopware 6
-### Storefront Javascript
 ```bash
 docker machine > bin/console plugin:refresh
 docker machine > bin/console plugin:install PLUGINNAME
